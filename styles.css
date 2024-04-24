@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(to right , rgb(38, 181, 38), red, orange);
+    font-family: Arial; 
+    color: white;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 2em;
+    text-align: center;
+}
